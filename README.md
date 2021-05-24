@@ -2,7 +2,7 @@
 
 
 В файле "srl_application.ipynb" находится код алгоритма, описываемого в работе. Так как тетрадка довольно большая,
-для просмотра ее можно либо скачать, либо перейти по ссылке по ссылке https://colab.research.google.com/drive/1cdkHoIiW1Y2h_0S9PqpoR5kqPHKsk9qm?usp=sharing
+для просмотра ее можно либо скачать, либо перейти по ссылке: https://colab.research.google.com/drive/1cdkHoIiW1Y2h_0S9PqpoR5kqPHKsk9qm?usp=sharing
 
 Вот здесь лежат преобразованные в таблицы данные ФреймБанка, необходимые для работы: https://drive.google.com/drive/folders/1f6RNiEIeXFokIGsNpbqfoh5-j-Cbfu4D?usp=sharing
 
